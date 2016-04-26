@@ -1,0 +1,27 @@
+{
+  "name": "BBNetwork",
+  "version": "0.0.1",
+  "summary": "iOS底层网络框架",
+  "homepage": "https://github.com/CupinnCoder/BBNetwork",
+  "license": "Copyright (C) 2016 Gary, Inc.  All rights reserved.",
+  "authors": {
+    "zhuguanyu": "zhuguanyu@cupinn.cn"
+  },
+  "social_media_url": "http://www.cupinn.com",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/CupinnCoder/BBNetwork.git"
+  },
+  "source_files": "BBNetwork/BBNetwork/**/*.{h,m,c}",
+  "requires_arc": true,
+  "dependencies": {
+    "MPMessagePack": [
+
+    ],
+    "AFNetworking": [
+
+    ]
+  }
+}
